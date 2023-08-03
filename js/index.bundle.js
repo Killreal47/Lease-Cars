@@ -1,0 +1,1 @@
+!function(){"use strict";new Swiper(".swiper",{pagination:{el:".swiper-pagination",clickable:!0},spaceBetween:30,autoplay:{delay:5e3,disableOnInteraction:!1},effect:"fade"})}();
