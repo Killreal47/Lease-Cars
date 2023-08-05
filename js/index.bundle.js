@@ -1,1 +1,1 @@
-!function(){"use strict";new Swiper(".swiper",{pagination:{el:".swiper-pagination",clickable:!0},spaceBetween:30,autoplay:{delay:5e3,disableOnInteraction:!1},effect:"fade"})}();
+!function(){"use strict";new Swiper(".swiper",{pagination:{el:".swiper-pagination",clickable:!0},spaceBetween:30,autoplay:{delay:5e3,disableOnInteraction:!1},effect:"fade"});const e=document.querySelector(".menu__btn"),t=document.querySelector(".menu__list");e.addEventListener("click",(e=>{t.classList.toggle("menu__list-active")}))}();
